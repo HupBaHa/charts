@@ -3,21 +3,21 @@ entries:
   django:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2023-02-03T23:18:35.561828021+06:00"
+    created: "2023-02-03T23:41:37.304263562+06:00"
     description: A default Helm Chart for Django application
     digest: 4fbcb1ac716213907acb64a49b8ec82e84d4b1f68a2604784a0266c5a22d8d6f
     name: django
     urls:
-    - https://hupbaha.github.io/charts/djangoheads/packages/django-1.0.0.tgz
+    - https://hupbaha.github.io/charts/djangoheads/package/django-1.0.0.tgz
     version: 1.0.0
   router:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2023-02-03T23:18:35.563168332+06:00"
+    created: "2023-02-03T23:41:37.306664364+06:00"
     description: A default Helm Chart for the Nginx router
     digest: 7ffbc2e980619265dec71606a46c56be1f780e7242a0bd69c5e9e7588695e6e0
     name: router
     urls:
-    - https://hupbaha.github.io/charts/djangoheads/packages/router-1.0.0.tgz
+    - https://hupbaha.github.io/charts/djangoheads/package/router-1.0.0.tgz
     version: 1.0.0
-generated: "2023-02-03T23:18:35.558257754+06:00"
+generated: "2023-02-03T23:41:37.302881957+06:00"
